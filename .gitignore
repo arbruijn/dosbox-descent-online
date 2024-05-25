@@ -19,3 +19,7 @@ dosbox.conf
 install-sh
 missing
 stamp-h1
+dosbox.vcxproj.user
+.vs/
+visualc_net/Release/
+visualc_net/Debug/
